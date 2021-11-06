@@ -1,5 +1,5 @@
-# Movie APP rest api connected MONGO DB
-
+# Movie APP REST API 
+Used JWT for authentication and hashed password CryptoJS.
 
 # Endpoints
 
